@@ -1,5 +1,5 @@
 {
-  "name": "Party Bot",
+  "name": "partybot",
   "version": "1.0.0",
   "description": "This bot knows how to party",
   "main": "index.js",
